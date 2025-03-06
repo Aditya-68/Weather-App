@@ -1,6 +1,6 @@
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
-import './searchbox.css'
+import './Searchbox.css'
 import { useState } from 'react';
 
 
